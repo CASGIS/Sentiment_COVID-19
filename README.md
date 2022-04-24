@@ -3,7 +3,7 @@ Replication materials for J Wang#, Y Fan#, J Palacios, Y Chai, N Jeanrenaud, N O
 
 The materials in this repository allow users to reproduce the data analysis and figures appearing in the paper.
 
-If you have questions or suggestions, please contact Jianghao Wang at wangjh@mit.edu | wangjh@lreis.ac.cn
+If you have questions or suggestions, please contact Jianghao Wang at wangjh@lreis.ac.cn
 
 ## Computational requirement
 - R 4.0+
